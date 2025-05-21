@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("Selamat Datang Di Web Informatika ")
+st.title("Gambling 🤑")
 st.write(
-    "Ngoding seru bersama Bapak Hendri Setiadi"
+    "Gacor Rek🤑"
 )
 st.image("20250426_001012.jpg", width= 200)
